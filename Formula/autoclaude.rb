@@ -1,8 +1,8 @@
 class Autoclaude < Formula
   desc "Automated Claude Code runner with automatic rate-limit recovery"
   homepage "https://github.com/evanisnor/autoclaude"
-  url "https://github.com/evanisnor/autoclaude/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "bb01353dc6472e51d6dd4e1a68c11343b45407064bfbf0ee1889de64bdb213a2"
+  url "https://github.com/evanisnor/autoclaude/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "caa86ebdc510d7550ce754c7e794a897acdc674ca7dccd01f7292a531635d67f"
   license "MIT"
 
   depends_on "jq"
